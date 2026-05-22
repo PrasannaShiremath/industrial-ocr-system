@@ -1,0 +1,36 @@
+{
+  "timestamp": "20260520_114642_160450",
+  "item_id": 3,
+  "image_file": "logs\\20260520_114642_160450_item3.jpg",
+  "detections": [
+    {
+      "text": "MNon8top",
+      "score": 0.89
+    },
+    {
+      "text": "Hero",
+      "score": 0.955
+    },
+    {
+      "text": "5G",
+      "score": 0.993
+    },
+    {
+      "text": "Unlimited data",
+      "score": 0.966
+    },
+    {
+      "text": "Onall4G,5G phone",
+      "score": 0.907
+    },
+    {
+      "text": "Untimited calls",
+      "score": 0.92
+    },
+    {
+      "text": "isit www.myvi.in for more details",
+      "score": 0.888
+    }
+  ],
+  "parsed": {}
+}
