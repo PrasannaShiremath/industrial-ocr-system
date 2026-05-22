@@ -1,0 +1,51 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# PaddleOCR model weights (huge files — 100MB+, don't upload)
+*.pdparams
+*.pdopt
+*.pdmodel
+*.pdiparams
+*.pdiparams.info
+.paddleocr/
+
+# Logs — don't upload real production logs (privacy)
+logs/*.jpg
+logs/*.json
+logs/*.csv
+# Keep the folder itself tracked
+!logs/.gitkeep
+
+# Test assets — keep sample, ignore bulk images
+test_assets/*.jpg
+test_assets/*.png
+test_assets/*.mp4
+!test_assets/sample_label.jpg
+!test_assets/.gitkeep
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment files (never upload API keys or secrets)
+.env
+*.env
+config_secret.py
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large data folders
+data/crops/
+data/raw_images/
+output/
