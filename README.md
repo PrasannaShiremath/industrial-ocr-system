@@ -168,5 +168,5 @@ MIT License — free to use, modify, and distribute.
 
 ## 🙋 Author
 
-**Your Name**
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**Prasanna S Hiremath**
+[LinkedIn](www.linkedin.com/in/prasannashiremath) · [GitHub](https://github.com/PrasannaShiremath)
